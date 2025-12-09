@@ -96,20 +96,7 @@ Hem **backend mimarileri** hem de **yapay zekâ / veri analizi** alanlarında ak
     </td>
   </tr>
 </table>
----
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebnembasak&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=238636&icon_color=238636" height="160px" alt="Şebnem's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebnembasak&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=238636&langs_count=6" height="160px" alt="Şebnem's Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebnembasak&theme=react&hide_border=true&background=0D1117&ring=238636&fire=238636&currStreakLabel=238636" alt="Streak" />
-</div>
-
----
 <div align="center">
   <sub><em>"Per aspera ad astra"</em></sub>
 </div>
