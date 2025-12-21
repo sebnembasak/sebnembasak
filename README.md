@@ -90,6 +90,7 @@ Hem **backend mimarileri** hem de **yapay zekâ / veri analizi** alanlarında ak
       <ul>
         <li><strong>SGP4</strong> ve <strong>KD-Tree</strong> algoritmaları ile ölçeklenebilir otonom çarpışma riski (Conjunction) taraması.</li>
         <li>Minimum Delta-V (yakıt) maliyeti için matematiksel manevra optimizasyonu.</li>
+        <li>Makine Öğrenmesi (RF, Isolation Forest) ile yapay zeka tabanlı görev sınıflandırma ve anomali tespiti (SSA).</li>
         <li>ISS modülleri üzerinde <strong>&lt;5m hassasiyetle</strong> doğrulama başarısı.</li>
         <li><strong>Teknolojiler:</strong> Python, FastAPI, Scipy, Poliastro, Leaflet.</li>
       </ul>
